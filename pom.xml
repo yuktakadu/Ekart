@@ -151,12 +151,12 @@
          <distributionManagement>
     <repository>
       <id>maven-releases</id>
-      <name>maven-releases</name>
+      <name>yukta</name>
       <url>http://13.233.42.136:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
       <id>maven-snapshots</id>
-      <name>maven-snapshots</name>
+      <name>yukta</name>
       <url>http://13.233.42.136:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
